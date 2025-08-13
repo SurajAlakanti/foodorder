@@ -1,0 +1,18 @@
+body {
+    background-image: url(place.jpeg);
+}
+
+form {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+input {
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: solid;
+    border-radius: 0%;
+    border-bottom-width: 4px;
+    border-bottom-color: greenyellow;
+}
